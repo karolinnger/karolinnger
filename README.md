@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karolinnger
-- 👀 I’m interested in IT, QA, Cats and Phylosophy/Psychology
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in QA, Philosophy and Psychology
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me - slava@kolosov.us
 
 <!---
